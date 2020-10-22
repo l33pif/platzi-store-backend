@@ -16,7 +16,7 @@ script:
 
 notifications:
   email:
-    reciepients:
+    recipients:
       - fel772@hotmail.com
       - oscar@arepa.dev
     on_success: always
